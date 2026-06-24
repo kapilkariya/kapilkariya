@@ -7,7 +7,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-💻 Interested in Web Development (MERN Stack)<br><br>
+💻 Interested in Web Development (MERN Stack)<br><bFr>
 🧠 Strong problem-solving mindset (active on LeetCode)<br><br>
 🚀 Focused on learning by building real projects<br><br>
 Currently working on improving my DSA, backend skills, and full-stack projects.
@@ -91,15 +91,7 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilkariya&theme=tokyonight"/>
 </p>
 
----
 
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=kapilkariya&icon=5&color=6"/>
-</p>
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐

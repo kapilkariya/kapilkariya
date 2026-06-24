@@ -75,10 +75,16 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 
 ---
 
-<h2 align="center">🚀 Space Shooter</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kapilkariya/kapilkariya/main/assets/space-shooter.gif" width="900"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kapilkariya/kapilkariya/output/github-contribution-grid-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/kapilkariya/kapilkariya/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake">
+  </picture>
 </p>
 
 ---

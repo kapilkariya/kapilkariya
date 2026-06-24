@@ -7,7 +7,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-💻 Interested in Web Development (MERN Stack)<br><bFr>
+💻 Interested in Web Development (MERN Stack)<br><br>
 🧠 Strong problem-solving mindset (active on LeetCode)<br><br>
 🚀 Focused on learning by building real projects<br><br>
 Currently working on improving my DSA, backend skills, and full-stack projects.
@@ -32,7 +32,6 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODEMON-323330?style=for-the-badge&logo=nodemon"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -43,7 +42,6 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-
 </p>
 
 ---
@@ -80,7 +78,7 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <h2 align="center">🚀 Space Shooter</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kapilkariya/kapilkariya/main/assets/space-shooter.gif" width="900"/>
+<img src="https://raw.githubusercontent.com/kapilkariya/kapilkariya/main/assets/space-shooter.gif" width="900"/>
 </p>
 
 ---
@@ -91,7 +89,7 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilkariya&theme=tokyonight"/>
 </p>
 
-
+---
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐

@@ -80,8 +80,7 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 <h2 align="center">🚀 Space Shooter</h2>
 
 <p align="center">
-<img src="YOUR_SPACE_SHOOTER_GIF_URL_HERE" width="900"/>
-</p>
+<img src="./assets/space-shooter.gif" width="900"/></p>
 
 ---
 

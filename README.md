@@ -46,14 +46,6 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kapilkariya&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -75,19 +67,6 @@ Currently working on improving my DSA, backend skills, and full-stack projects.
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kapilkariya/kapilkariya/output/github-contribution-grid-snake-dark.svg">
-    <img
-      src="https://raw.githubusercontent.com/kapilkariya/kapilkariya/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake">
-  </picture>
-</p>
-
----
 
 <h2 align="center">🌌 Profile Summary</h2>
 
